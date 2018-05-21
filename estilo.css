@@ -1,0 +1,25 @@
+
+.imagen1{
+	height: 200px;
+	width: 350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+}
+
+.imagen2{
+	border-radius: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: left;
+}
+
